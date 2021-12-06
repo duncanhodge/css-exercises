@@ -1,0 +1,19 @@
+.basic {
+    background-color: #ffb6c1;
+    font-family: Verdana, sans-serif;
+}
+
+#two {
+    color: 00,00,99;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(43, 255, 0);
+    font-size: 24px;
+    font-weight: 700;
+}
